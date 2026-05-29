@@ -9,6 +9,7 @@
     "ip": "TheEndureSmp.aternos.me:49089",
     "port": 49089,
     "version": "1.21.11",
+          "try-creative": false
   },
   "position": {
     "enabled": false,
